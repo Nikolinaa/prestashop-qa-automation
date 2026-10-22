@@ -1,0 +1,10 @@
+{
+  "user": {
+    "firstName": "Nikolina",
+    "lastName": "Tester",
+    "email": "testerNikolinaB@example.com",
+    "password": "SifraZaTest123!",
+    "fullName": "Nikolina Tester"
+  },
+  "invalidEmail": "invalid-email"
+}
